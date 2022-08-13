@@ -1,0 +1,9 @@
+format: jb-book
+root: README
+parts:
+  - caption: Desserts
+    chapters:
+    - file: desserts/fudgy-brownies
+  - caption: Mains
+    chapters:
+    - file: mains/peanut-curry-ramen

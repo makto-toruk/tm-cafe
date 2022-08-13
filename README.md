@@ -1,2 +1,2 @@
-# tm-cafe
-Recipes for the future
+# TM Cafe
+Recipes for our future cafe.
