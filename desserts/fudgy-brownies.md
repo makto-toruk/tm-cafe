@@ -1,4 +1,4 @@
-# Fudgy brownies
+# Fudgy Brownies
 
 > Adapted from this [video](https://www.youtube.com/watch?v=HIonKbKM-tE&ab_channel=EverydayFood).
 
