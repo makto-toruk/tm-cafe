@@ -2,7 +2,10 @@
 
 > Adapted from this [video](https://www.youtube.com/watch?v=HIonKbKM-tE&ab_channel=EverydayFood).
 
-<img src="../images/fudgy-brownies.jpg" alt="Fudgy Brownies" width="600px" />
+```{image} ../images/fudgy-brownies.jpg
+:alt: fudgy-brownies
+:width: 600px
+```
 
 ## Ingredients
 1. ~170g of [Trader Joe's PoundPlus Dark Chocolate](https://www.amazon.com/Trader-Joes-Pound-Plus-Chocolate/dp/B00AAIADZE)

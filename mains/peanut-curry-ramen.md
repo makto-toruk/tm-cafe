@@ -2,6 +2,12 @@
 
 > Adapted from this [recipe](https://www.halfbakedharvest.com/20-minute-thai-peanut-chicken-ramen/).
 
+```{image} ../images/peanut-curry-ramen.jpg
+:alt: peanut-curry-ramen
+:width: 600px
+```
+
+
 ## Ingredients
 1. 32 oz [Trader Joe's low sodium vegetable broth](https://www.amazon.com/Trader-Organic-Vegetable-3-pack-Cartons/dp/B08F2ZKQXZ) (the full container)
 2. 1 can coconut milk (not cream, not light)
