@@ -1,6 +1,6 @@
-# Flake Pie Crust
+# Flaky Pie Crust
 
-> Adapted from a baking class I went to [here](http://www.bakingarts.net/classes.html).
+> Adapted from a [baking class](http://www.bakingarts.net/classes.html).
 
 ```{image} ../images/pie-crust.jpg
 :alt: pie-crust
@@ -9,7 +9,7 @@
 
 ## Ingredients
 For two bottom crusts or one double crust:
-1. 2 1/2 cups of all purpose flour
+1. 2 1/2 cups all purpose flour
 1. 1 tsp salt
 1. 1 Tbsp sugar
 1. 2 Tbsp ghee
