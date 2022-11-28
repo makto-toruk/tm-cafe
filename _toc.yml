@@ -4,6 +4,7 @@ parts:
   - caption: Desserts
     chapters:
     - file: desserts/fudgy-brownies
+    - file: desserts/pecan-pie
   - caption: Mains
     chapters:
     - file: mains/peanut-curry-ramen
