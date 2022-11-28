@@ -14,7 +14,7 @@
 1. 3/4 cup white granulated sugar
 1. 1/3 cup brown sugar
 1. 3 eggs
-1. 1/2 cup + 2 tbsp all purpose flour
+1. 1/2 cup + 2 Tbsp all purpose flour
 1. Pinch of salt
 
 ## Instructions
