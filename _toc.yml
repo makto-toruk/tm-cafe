@@ -7,3 +7,6 @@ parts:
   - caption: Mains
     chapters:
     - file: mains/peanut-curry-ramen
+  - caption: Foundations
+    chapters:
+    - file: base/pie-crust
