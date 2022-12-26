@@ -8,3 +8,12 @@ python -m venv cafeenv
 source cafeenv/bin/activate
 pip install -r requirements.txt
 ```
+
+1. Build the book:
+    ```
+    jupyter-book build .
+    ```
+2. Push to github pages:
+    ```
+    ghp-import -n -p -f _build/html
+    ```
