@@ -1,13 +1,16 @@
 format: jb-book
 root: README
 parts:
+  - caption: Antipasto
+    chapters:
+    - file: antipasto/pull-apart-garlic-bread
+  - caption: Mains
+    chapters:
+    - file: mains/peanut-curry-ramen
   - caption: Desserts
     chapters:
     - file: desserts/fudgy-brownies
     - file: desserts/pecan-pie
-  - caption: Mains
-    chapters:
-    - file: mains/peanut-curry-ramen
   - caption: Foundations
     chapters:
     - file: base/pie-crust
