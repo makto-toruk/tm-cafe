@@ -44,3 +44,5 @@ We don't have a scale (yet), so we converted the measurements.
     > The cast iron pan helps bake the bottom of the loaf.
 12. Place the loaf pan on the cast iron pan and bake for 40 minutes.
 13. Brush with remaining garlic butter and rest for 10 minutes. Serve.
+
+First baked: 12/24/2022
