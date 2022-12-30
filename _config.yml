@@ -19,3 +19,7 @@ html:
 # Launch button settings
 repository:
   url: https://github.com/makto-toruk/tm-cafe
+
+#######################################################################################
+# Exclude pages from build
+exclude_patterns: [cafeenv/*]
